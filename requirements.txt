@@ -1,2 +1,1 @@
-import boto3
-import pandas as pd
+pip install boto3 pandas openpyxl
