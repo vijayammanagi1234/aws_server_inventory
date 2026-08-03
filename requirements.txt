@@ -1,1 +1,3 @@
-pip install boto3 pandas openpyxl
+boto3
+pandas
+openpyxl
